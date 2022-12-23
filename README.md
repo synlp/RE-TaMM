@@ -2,7 +2,7 @@
 
 This is the implementation of [Relation Extraction with Type-aware Map Memories of Word Dependencies](https://aclanthology.org/2021.findings-acl.221.pdf) at ACL 2021.
 
-You can e-mail Guimin Chen at `chenguimin@foxmail.com` or `cuhksz.nlp@gmail.com` or Yuanhe Tian at `yhtian@uw.edu`, if you have any questions.
+You can e-mail Yuanhe Tian at `yhtian@uw.edu`, if you have any questions.
 
 ## Citation
 
